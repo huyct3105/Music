@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HDMusic</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="song">Nơi này có anh</string>
+    <string name="artist">M-TP</string>
+    <string name="title_app">HD Music</string>
+    <string name="bottom_sheet_song">Am Tham Ben Em (Live)</string>
+    <string name="bottom_sheet_artist">Sơn Tùng M-TP</string>
+    <string name="text_time">00:00 / 00:00</string>
+</resources>

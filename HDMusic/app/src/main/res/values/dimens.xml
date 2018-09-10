@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_left">10dp</dimen>
+    <dimen name="margin_top">8dp</dimen>
+    <dimen name="margin_right">15dp</dimen>
+    <dimen name="empty_icon_width">40dp</dimen>
+    <dimen name="empty_icon_height">40dp</dimen>
+    <dimen name="peek_height">60dp</dimen>
+    <dimen name="image_height">380dp</dimen>
+    <dimen name="padding_medium">20dp</dimen>
+    <dimen name="padding_drawable">6dp</dimen>
+    <dimen name="margin_top_two">2dp</dimen>
+    <dimen name="margin_top_notify">6dp</dimen>
+    <dimen name="notify_song_width">150dp</dimen>
+    <dimen name="margin_right_notify">30dp</dimen>
+    <dimen name="margin_left_notify">30dp</dimen>
+    <dimen name="margin_right_five">5dp</dimen>
+    <dimen name="height_view">1dp</dimen>
+    <dimen name="bottom_sheet_margin_right">15dp</dimen>
+    <dimen name="bottom_sheet_margin_top">4dp</dimen>
+    <dimen name="bottom_sheet_margin_left">25dp</dimen>
+    <dimen name="bottom_margin_top">12dp</dimen>
+    <dimen name="icon_margin_right">12dp</dimen>
+    <dimen name="icon_margin_top">14dp</dimen>
+    <dimen name="linear_height">440dp</dimen>
+    <dimen name="padding_zero">0dp</dimen>
+    <dimen name="header_drawer_height">100dp</dimen>
+
+    <dimen name="text_size_ten">10sp</dimen>
+    <dimen name="text_size_smallest">12sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_normal">16sp</dimen>
+
+</resources>
